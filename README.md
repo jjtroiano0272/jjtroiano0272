@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **new open source projects**
 
-- 👨‍💻 All of my projects are available at [https://jonathan-troiano.netlify.app](jonathan-troiano.netlify.app)
+- 👨‍💻 All of my projects are available at [jonathan-troiano.netlify.app](https://jonathan-troiano.netlify.app)
 
 - 📝 I have certifications in [Java; AWS Certified Cloud Practitioner](Java; AWS Certified Cloud Practitioner)
 
