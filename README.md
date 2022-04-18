@@ -34,7 +34,7 @@
 </p>
 <br>
 <br>
-<h3 align="left">Front-end Technologies:</h3>
+<h5 align="left">Front-end Technologies:</h5>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
@@ -103,7 +103,7 @@
   </a>
   </p>
 
-  <h3 align="left">Back-end Technologies & DBMS:</h3>
+  <h5 align="left">Back-end Technologies & DBMS:</h5>
   
   <p align="left">
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -161,7 +161,7 @@
   </p>
   
   <!-- Languages -->
-  <h3 align="left">Languages and Tools:</h3>
+  <h5 align="left">Languages and Tools:</h5>
   <p align="left">
     <a
       href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -210,7 +210,7 @@
   </p>
 
   <!-- DevOps -->
-  <h3 align="left">DevOps:</h3>
+  <h5 align="left">DevOps:</h5>
   <p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
       <img
@@ -230,7 +230,7 @@
     </a>
   </p>
 
-  <h3 align="left">Tools:</h3>
+  <h5 align="left">Tools:</h5>
   <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img
@@ -283,6 +283,7 @@
   </p>
   
 </p>
+
 
 <br>
 <br>
