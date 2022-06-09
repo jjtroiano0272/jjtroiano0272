@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [React](http://jjtroiano0272.github.io)
 
-- 🌱 I’m currently learning **React**
-
 - 👯 I’m looking to collaborate on **new open source projects**
 
 - 👨‍💻 All of my projects are available at [jonathan-troiano.netlify.app](https://jonathan-troiano.netlify.app)
