@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [jonathan-troiano.netlify.app](https://jonathan-troiano.netlify.app)
 
-- 📝 I have certifications in [Java; AWS Certified Cloud Practitioner](Java; AWS Certified Cloud Practitioner)
+- 📝 Official Certifications: **Java, AWS Certified Cloud Practitioner**
 
-- 💬 Ask me about **React, ThreeJS,**
+- 📫 How to reach me **jonathan.j.troiano@gmail.com**
 
-- 📫 How to reach me **jjtroiano0272@eagle.fgcu.edu**
+- 💬 Ask me about **React, React Native, ThreeJS,**
 
-- ⚡ Fun fact **I make music 🎹**
+- ⚡ Fun fact **I produce music 🎹**
 
 <br>
 <br>
