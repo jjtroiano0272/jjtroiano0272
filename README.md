@@ -290,7 +290,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjtroiano0272&show_icons=true&locale=en&layout=compact" alt="jjtroiano0272" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jjtroiano0272&show_icons=true&locale=en" alt="jjtroiano0272" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jjtroiano0272&show_icons=true&locale=en" alt="jjtroiano0272" /></p> -->
 
 <!---
 jjtroiano0272/jjtroiano0272 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
